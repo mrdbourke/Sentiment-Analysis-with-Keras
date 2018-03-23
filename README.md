@@ -6,7 +6,7 @@ It's a run through of a sentiment analysis model using Keras on the IMDB dataset
 
 You will build a Keras model from the ground up to classify IMDB movie reviews as being postive or negative. 
 
-With the model built in this notebook you should achieve at least 85% accuracy. 
+When deciding if a review is postive or negative, the model built in this notebook should achieve at least 85% accuracy. 
 
 For more information on Keras check out the documentation at [keras.io](http://keras.io).
 
