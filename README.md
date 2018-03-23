@@ -1,6 +1,6 @@
 # IMDB Movie Review Sentiment Analysis with Keras
 
-This notebook contains the code relating to Learning Intelligence 25.
+This [notebook](https://github.com/mrdbourke/Sentiment-Analysis-with-Keras/Sentiment-Analysis-with-Keras.ipynb) contains the code relating to Learning Intelligence 25.
 
 It's a run through of a sentiment analysis model using Keras on the IMDB dataset.
 
